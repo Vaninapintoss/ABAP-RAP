@@ -1,0 +1,4 @@
+@EndUserText.label: 'API scenario'
+define service ZAPI_RAP_Travel_582 {
+  expose ZC_RAP_Travel_582 as Travel;
+}
